@@ -1,2 +1,1 @@
-# YBI-foundation-final-project
-Credit Card Fault Detection
+# YBI-FOUNDATION
